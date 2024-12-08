@@ -2,11 +2,10 @@
 Lots of samples of manim graph animation.
 > ### Download manimce
 Make sure that tou hava downloaded ```manimce``` by running 
-```python
+```bash
 pip3 install manim
 ```
 dont run(they are not the same thing)
-
 ```python
 pip3 install manimgl
 ```
