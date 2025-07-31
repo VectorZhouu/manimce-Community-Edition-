@@ -5,7 +5,7 @@ Make sure that tou hava downloaded ```manimce``` by running
 ```bash
 pip3 install manim
 ```
-dont run(they are not the same thing)
+dont run(unless you want to use manimgl)
 ```python
 pip3 install manimgl
 ```
