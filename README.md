@@ -1,5 +1,5 @@
 # manimce-Community-Edition
-Lots of samples of manim graph animation.Pay attention to the edition(COMUUNITY EDITION)
+Lots of samples of manim graph animation.Pay attention to the edition(COMUUNITY EDITION).More detail you can see in the discord of Manim
 > ### Download manimce
 Make sure that tou hava downloaded ```manimce``` by running 
 ```bash
