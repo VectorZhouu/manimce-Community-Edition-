@@ -1,13 +1,13 @@
 # manimce-Community-Edition
-Lots of samples of manim graph animation.Pay attention to the edition(COMUUNITY EDITION).More detail you can see in the discord of Manim
+Lots of samples of manim graph animation.Pay attention to the edition(COMUUNITY EDITION).More detail you can see in the discord of Manim \
 许多函数的动画。⚠️注意版本（社区版本）。更多细节可以加入manim的dicord
 > ### Download manimce
-Make sure that tou hava downloaded ```manimce``` by running 
+Make sure that tou hava downloaded ```manimce``` by running \
 通过运行以下命令确保你已正确安装```manimce```
 ```bash
 pip3 install manim
 ```
-don't run(unless you want to use manimgl)
+don't run(unless you want to use manimgl) \
 不要输入（除非你想下载的不是社区版本manimce，而是个人版manimgl）
 ```python
 pip3 install manimgl
