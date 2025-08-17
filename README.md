@@ -19,7 +19,7 @@ You can download them from official website.__The version of dvisvgm must be hig
 
 > ### Download MikTex
 You can download it at official website.__If you have a 360 Guard scanner on your computer, turn off its automatic scanner as they will automatically delete miktex files__ \
-你可以从官方网站下载miktex__如果你有360安全卫士，请关闭他的自动检测，因为下载完miktex后它会自动删除miktex的文件__
+你可以从官方网站下载miktex __如果你有360安全卫士，请关闭他的自动检测，因为下载完miktex后它会自动删除miktex的文件__
 
 
 > ### Test
