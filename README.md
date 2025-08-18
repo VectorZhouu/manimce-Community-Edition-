@@ -4,7 +4,7 @@ Lots of samples of manim graph animation.Pay attention to the edition(COMUUNITY 
 > ### Download manimce
 Make sure that tou hava downloaded ```manimce``` by running \
 通过运行以下命令确保你已正确安装```manimce```
-```bash
+```py
 pip3 install manim
 ```
 don't run(unless you want to use manimgl) \
