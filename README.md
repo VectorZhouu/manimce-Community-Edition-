@@ -1,6 +1,8 @@
 # manimce-Community-Edition😄
 Lots of samples of manim graph animation.Pay attention to the edition(COMUUNITY EDITION).More detail you can see in the discord of Manim \
 许多函数的动画。⚠️注意版本（社区版本）。更多细节可以加入manim的discord
+
+
 > ### Download manimce
 Make sure that tou hava downloaded ```manimce``` by running \
 通过运行以下命令确保你已正确安装```manimce```
